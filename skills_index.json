@@ -228,14 +228,14 @@
     "description": "\"You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.\""
   },
   {
-    "id": "brand-guidelines-community",
-    "path": "skills/brand-guidelines-community",
+    "id": "brand-guidelines-anthropic",
+    "path": "skills/brand-guidelines-anthropic",
     "name": "brand-guidelines",
     "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply."
   },
   {
-    "id": "brand-guidelines-anthropic",
-    "path": "skills/brand-guidelines-anthropic",
+    "id": "brand-guidelines-community",
+    "path": "skills/brand-guidelines-community",
     "name": "brand-guidelines",
     "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply."
   },
@@ -550,6 +550,18 @@
     "path": "skills/cc-skill-frontend-patterns",
     "name": "frontend-patterns",
     "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
+  },
+  {
+    "id": "frontend-slides",
+    "path": "skills/frontend-slides",
+    "name": "frontend-slides",
+    "description": "\"Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a...\""
+  },
+  {
+    "id": "frontend-ui-dark-ts",
+    "path": "skills/frontend-ui-dark-ts",
+    "name": "frontend-ui-dark-ts",
+    "description": "\"Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboards, admin panels, or data-rich interfaces...\""
   },
   {
     "id": "game-art",
@@ -990,6 +1002,12 @@
     "description": "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying."
   },
   {
+    "id": "radix-ui-design-system",
+    "path": "skills/radix-ui-design-system",
+    "name": "radix-ui-design-system",
+    "description": "\"Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries.\""
+  },
+  {
     "id": "rag-engineer",
     "path": "skills/rag-engineer",
     "name": "rag-engineer",
@@ -1230,6 +1248,12 @@
     "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
   },
   {
+    "id": "tailwind-design-system",
+    "path": "skills/tailwind-design-system",
+    "name": "tailwind-design-system",
+    "description": "\"Build scalable design systems with Tailwind CSS, design tokens, component libraries, and responsive patterns. Use when creating component libraries, implementing design systems, or standardizing UI...\""
+  },
+  {
     "id": "tailwind-patterns",
     "path": "skills/tailwind-patterns",
     "name": "tailwind-patterns",
@@ -1282,6 +1306,12 @@
     "path": "skills/theme-factory",
     "name": "theme-factory",
     "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly."
+  },
+  {
+    "id": "threejs-skills",
+    "path": "skills/threejs-skills",
+    "name": "threejs-skills",
+    "description": "\"Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, animations, or interactive 3D elements.\""
   },
   {
     "id": "top-web-vulnerabilities",
